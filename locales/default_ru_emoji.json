@@ -1,0 +1,21 @@
+{
+  "night_is_starting": ":night_with_stars: Наступает ночь",
+  "day": ":sunset: День",
+  "enter_game": ":person_in_tuxedo_light_skin_tone: Присоединиться",
+  "roles.doctor": ":man_health_worker: Доктор",
+  "roles.don": ":person_in_tuxedo_light_skin_tone: Дон",
+  "roles.investigator": ":man_detective: Следователь",
+  "roles.mistress": ":woman_dancing: Любовница",
+  "roles.sheriff": ":man_police_officer: Шериф",
+  "roles.lucky": ":crossed_fingers: Везунчик",
+  "roles.citizen": ":man_medium-light_skin_tone: Мирный житель",
+  "citizen_role_name_short": ":man_medium-light_skin_tone: Мирный житель",
+  "doctor_role_name_short": ":man_health_worker: Доктор",
+  "lucky_role_name_short": ":crossed_fingers: Везунчик",
+  "don_role_name_short": ":person_in_tuxedo_light_skin_tone: Дон",
+  "investigator_role_name_short": ":man_detective: Следователь",
+  "mistress_role_name_short": ":woman_dancing: Любовница",
+  "sheriff_role_name_short": ":man_police_officer: Шериф",
+  "voting_check_+": ":thumbs_up: %{cnt}",
+  "voting_check_-": ":thumbs_down: %{cnt}"
+}
